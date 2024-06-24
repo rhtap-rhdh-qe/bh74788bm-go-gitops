@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: bh74788bm-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/bh74788bm-go-gitops
